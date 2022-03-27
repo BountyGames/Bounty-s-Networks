@@ -1,0 +1,23 @@
+name: Bnetworks
+version: '${project.version}'
+main: fr.bountygames.bnetworks.Main
+api-version: 1.18
+authors: [ BountyGames ]
+website: bountygames.fr
+
+commands:
+  twitch:
+    description: "Bnetworks command"
+    aliases: [ twitch ]
+  discord:
+    description: "Bnetworks command"
+    aliases: [ discord ]
+  twitter:
+    description: "Bnetworks command"
+    aliases: [ twitter ]
+  youtube:
+    description: "Bnetworks command"
+    aliases: [ youtube ]
+  reddit:
+    description: "Bnetworks command"
+    aliases: [ reddit ]

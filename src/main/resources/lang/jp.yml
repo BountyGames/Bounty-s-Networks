@@ -1,0 +1,4 @@
+error: "&cエラーが発生しました。管理者に連絡してください。"
+null_message: "&cメッセージが設定されていません。"
+plugin_disabled: "&cプラグインは無効です。"
+plugin_enabled: "&aプラグインは有効です。"

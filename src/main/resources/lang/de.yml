@@ -1,0 +1,4 @@
+error: "&cEin Fehler ist aufgetreten, bitte kontaktiere einen Administrator."
+null_message: "&cDie Nachricht ist nicht konfiguriert."
+plugin_disabled: "&cDas Plugin ist deaktiviert."
+plugin_enabled: "&aDas Plugin ist aktiviert."

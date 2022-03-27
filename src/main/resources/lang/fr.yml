@@ -1,0 +1,4 @@
+error: "&cUne erreur est survenue, veuillez contacter un administrateur."
+null_message: "&cLe message n'a pas été configuré !"
+plugin_disabled: "&cLe plugin est désactivé."
+plugin_enabled: "&aLe plugin est activé."

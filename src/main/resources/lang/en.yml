@@ -1,0 +1,4 @@
+error: "&cAn error has occurred, please contact an administrator."
+null_message: "&cThe message is empty."
+plugin_disabled: "&cThe plugin is disabled."
+plugin_enabled: "&aThe plugin is enabled."

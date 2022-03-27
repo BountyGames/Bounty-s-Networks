@@ -1,0 +1,40 @@
+#╔═════════════════════════════════════════════════════╗
+#║                   Bounty's Networks                 ║
+#║                                                     ║
+#║                  Made by BountyGames                ║
+#╚═════════════════════════════════════════════════════╝
+
+prefix: "&7[&bBounty's Networks&7] "
+
+lang: en
+langs:
+  - fr
+  - en
+  - de
+  - es
+  - jp
+
+# ========== NetWorks ===========
+# Colors : &7, &a, &b, &c, &d, &e, &6, &f, &k, &l, &m, &n, &o, &r, &s, &9, &8, &7, &5, &4, &3, &2, &1, &0
+# Player Name : %player%
+
+twitch:
+  enabled: true
+  message: "Our Twitch channel is: https://www.twitch.tv/flambwind"
+
+discord:
+  enabled: true
+  message: "Our Discord server is: https://discord.gg/flambwind"
+
+twitter:
+  enabled: true
+  message: "Our Twitter page is: https://twitter.com/flambwind"
+
+youtube:
+  enabled: true
+  message: "Our Youtube channel is: https://www.youtube.com/channel/UC-lHJZR3Gqxm24_Vd_AJ5Yw"
+
+reddit:
+  enabled: true
+  message: "Our Reddit page is: https://www.reddit.com/r/flambwind"
+
