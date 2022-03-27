@@ -1,7 +1,7 @@
 name: Bnetworks
 version: '${project.version}'
 main: fr.bountygames.bnetworks.Main
-api-version: 1.18
+api-version: 1.13
 authors: [ BountyGames ]
 website: bountygames.fr
 
