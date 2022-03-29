@@ -1,9 +1,10 @@
 ![Plugins_Banner](https://github.com/BountyGames/BountyGames/blob/main/assets/plugins_banner.png)
 
-# 🌐BountyGames Networks
+![Plugin_Big_Logo](https://github.com/BountyGames/BountyGames/blob/main/assets/BountyGamesNetworks.png)
+
 Spigot : https://www.spigotmc.org/resources/bountys-networks.101013/
  
-# Commands List :
+![Command_List](https://github.com/BountyGames/BountyGames/blob/main/assets/Commands_List.png)
 
 - /twitch
 - /twitter
@@ -13,7 +14,7 @@ Spigot : https://www.spigotmc.org/resources/bountys-networks.101013/
 
 **All commands can be disabled in the config file**
 
-# Supported languages :
+![Supported_Languages](https://github.com/BountyGames/BountyGames/blob/main/assets/Supported_Languages.png)
 
 - 🇬🇧 English
 - 🇫🇷 French
