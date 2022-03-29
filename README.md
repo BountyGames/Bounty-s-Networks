@@ -1,6 +1,10 @@
 ![Plugins_Banner](https://github.com/BountyGames/BountyGames/blob/main/assets/plugins_banner.png)
 
-![Plugin_Big_Logo](https://github.com/BountyGames/BountyGames/blob/main/assets/BountyGamesNetworks.png)
+<p align="center">
+ ![Plugin_Big_Logo](https://github.com/BountyGames/BountyGames/blob/main/assets/BountyGamesNetworks.png)
+</p>
+
+
 
 Spigot : https://www.spigotmc.org/resources/bountys-networks.101013/
  
